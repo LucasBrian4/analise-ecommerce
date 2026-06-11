@@ -51,11 +51,9 @@ Dataset com 5.000 registros de vendas de uma loja online cobrindo o período de 
 
 ## Dashboard
 
-### Página 1 — Visão Geral
-![Página 1](dashboard_pagina1.png)
+![Página 1](analise-eco.png)
 
-### Página 2 — Análise Detalhada
-![Página 2](dashboard_pagina2.png)
+![Página 2](analise-eco2.png)
 
 ---
 
