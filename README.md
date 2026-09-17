@@ -2,6 +2,8 @@
 
 Dashboard de análise de dados de e-commerce utilizando Python, SQL e Power BI.
 
+> Pipeline completo: da limpeza de dados brutos até o dashboard final — dataset próprio (Kaggle, 5.000 registros).
+
 ---
 
 ## Sobre o projeto
